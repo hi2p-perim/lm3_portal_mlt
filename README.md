@@ -18,4 +18,4 @@ Build:
     $ cd build
     $ conda activate lm3_dev
     $ cmake -G "Visual Studio 15 2017 Win64" ..
-    $ 
+    $ start portal_mlt.sln
